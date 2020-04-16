@@ -1,0 +1,1 @@
+Live Sketch App is a IPython Notebook App developed using OpenCV. 
